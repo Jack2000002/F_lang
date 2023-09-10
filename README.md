@@ -6,6 +6,7 @@
 Google Collab с работающей моделью https://github.com/b3GOR/Flang/blob/main/FLang.ipynb
 
 А также словарь со списком изученных слов
+https://github.com/b3GOR/Flang/blob/main/dictionary.txt
 
 # Детали
 Исходная модель была взята из данных ноутбуков после чего прошла fine-tunning
