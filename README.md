@@ -8,6 +8,7 @@ Google Collab с работающей моделью
 # Детали
 Исходная модель была взята из данных ноутбуков после чего прошла fine-tunning
 https://github.com/MuhammadMoinFaisal/LargeLanguageModelsProjects/blob/main/Fine-Tune%20Llama%202/Fine_tune_Llama_2_in_Google_Colab.ipynb
+
 https://github.com/MuhammadMoinFaisal/LargeLanguageModelsProjects/blob/main/Fine-Tune%20Llama%202/LLAMA2_FineTune_Model_Test.ipynb
 
 И была загруженна на Hugging Face
