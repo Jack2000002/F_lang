@@ -1,14 +1,18 @@
 # ODS-Pet-Project-2023-FLang
-# Usage
-Если будете файнтюнить эту модель (например: свой датасет или промпт другой хотите попробовать), то здесь собраны все ноутбуки которые используются в данной модели.
+# Цель проекта
+При изучения иностранного языка важно применять выученные слова на практике. Поэтому была сделана модель на основе llama2-7b с использованием QLoRa, которая генерировала бы текст по заданных пользователям параметрах (тема, кол-во предложений, уровень владения языком, слова, которые мы хотим тренировать читая текст)
 
 # Запуск
 Google Collab с работающей моделью
 
 # Детали
-Исходная модель была взята из данных ноутбуков
+Исходная модель была взята из данных ноутбуков после чего прошла fine-tunning
+https://github.com/MuhammadMoinFaisal/LargeLanguageModelsProjects/blob/main/Fine-Tune%20Llama%202/Fine_tune_Llama_2_in_Google_Colab.ipynb
+https://github.com/MuhammadMoinFaisal/LargeLanguageModelsProjects/blob/main/Fine-Tune%20Llama%202/LLAMA2_FineTune_Model_Test.ipynb
+
+И была загруженна на Hugging Face
+https://huggingface.co/b3G0R/FLang
 
 
-# Итоговый ноутбук.
-Загрузка модели из Hugging Face
-<img width="98" alt="image" src="https://github.com/b3GOR/Flang/assets/46500891/2db638e1-2079-4016-8644-3cbf3050ae4b">
+
+
